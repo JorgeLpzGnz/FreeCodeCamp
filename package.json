@@ -1,1 +1,11 @@
-{"author": "Jorge Lopez"}
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jorge",
+  "license": "ISC"
+}
